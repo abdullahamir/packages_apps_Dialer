@@ -48,4 +48,13 @@
     <string name="call_log_action_block">Block caller</string>
     <string name="call_log_action_unblock">Caller blocked</string>
 
+    <!-- Call Recorder -->
+    <string name="call_recording_category_key" translatable="false">call_recording_category</string>
+    <string name="call_recording_category_title">Call recording</string>
+    <string name="call_recording_format_key" translatable="false">call_recording_format</string>
+    <string name="call_recording_format">Audio format</string>
+    <string name="wb_amr_format" translatable="false">AMR-WB</string>
+    <string name="aac_format" translatable="false">AAC</string>
+    <string name="call_playback_no_app_found_toast">No app could be found for playback of the selected recording.</string>
+
 </resources>
