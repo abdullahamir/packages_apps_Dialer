@@ -29,7 +29,7 @@ import android.preference.SwitchPreference;
 
 import com.android.dialer.R;
 
-import cyanogenmod.providers.Settings;
+import android.provider.Settings;
 
 import java.util.Arrays;
 

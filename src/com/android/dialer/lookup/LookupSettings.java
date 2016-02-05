@@ -22,7 +22,7 @@ import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.provider.Settings;
 
-import cyanogenmod.providers.Settings;
+import android.provider.Settings;
 
 import java.util.List;
 

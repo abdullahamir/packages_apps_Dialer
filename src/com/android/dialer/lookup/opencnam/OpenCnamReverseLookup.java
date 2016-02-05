@@ -27,7 +27,7 @@ import com.android.dialer.lookup.ContactBuilder;
 import com.android.dialer.lookup.LookupUtils;
 import com.android.dialer.lookup.ReverseLookup;
 
-import cyanogenmod.providers.Settings;
+import android.provider.Settings;
 
 import java.io.IOException;
 
